@@ -16,14 +16,15 @@ LSTM is a type of recurrent neural network (RNN) architecture that is effective 
 The Decision Forest model, also known as a Random Forest, is an ensemble learning method that combines multiple decision trees to make predictions. Each tree in the forest independently predicts the outcome, and the final prediction is determined by aggregating the individual tree predictions.
 
 ## Dataset
-The project utilizes a Covid-19 dataset to train and evaluate the models. The dataset includes relevant variables such as date, confirmed cases, recovered cases, and deaths. By analyzing this dataset, we aim to make predictions about the future progression of the pandemic.
+The project utilizes a Covid-19 dataset to train and evaluate the models. The dataset includes relevant variables such as date, confirmed cases, recovered cases, and deaths. By analyzing this dataset, I'm trying to make predictions about the future progression of the pandemic.
+The dataset link: https://github.com/owid/covid-19-data
 
 ## Getting Started
 To use this code, follow these steps:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/Covid-19-Time-series-analysis.git
+   git clone https://github.com/ArtemDolgie/Covid-19-Time-series-analysis.git
    ```
 
 ## Results and Evaluation
